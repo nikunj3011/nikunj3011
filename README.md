@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Just another human being who wants to know how universe works with computers, games and algorithms.
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 <!--
 **nikunj3011/nikunj3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
