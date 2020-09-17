@@ -1,7 +1,7 @@
 ## 👋 "Hello" from another world
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 Just another human being who wants to know how universe works through computers, games and algorithms.
-
+<br/>
 
   [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nikunj3011.github.io/)
   [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/nikunj3011) 
