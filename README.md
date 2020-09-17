@@ -21,13 +21,15 @@ Just another human being who wants to know how universe works with computers, ga
 
 ## ⚡ Domains I'm interested in:
 - Game Development
+- AR/VR
 - Machine Learninig - Deep Learning - Reinforcement Learning
 - Creative Coding
+- Quantum Computing
 - Web Development
 - Cloud Computing
 - Data Science
-- Quantum Computing
-- AR/VR
+
+
 
 ## 🤔 Github Stats
 ![Nikunj's github stats](https://github-readme-stats.vercel.app/api?username=nikunj3011&show_icons=true&theme=highcontrast)
