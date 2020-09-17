@@ -1,6 +1,6 @@
 ## 👋 "Hello" from another world
 
-Just another human being who wants to know how universe works with computers, games and algorithms.
+Just another human being who wants to know how universe works through computers, games and algorithms.
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
   [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nikunj3011.github.io/)
