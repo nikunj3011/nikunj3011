@@ -32,7 +32,7 @@ Just another human being who wants to know how universe works through computers,
 
 
 ## 🤔 Github Stats
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)<br/>
 ![Nikunj's github stats](https://github-readme-stats.vercel.app/api?username=nikunj3011&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj3011&layout=compact)](https://github.com/nikunj3011/)
 
