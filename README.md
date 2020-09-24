@@ -1,4 +1,4 @@
-## 👋 "Hello" from another world
+## <img src="https://user-images.githubusercontent.com/48138906/87844647-ada73c00-c8dc-11ea-96af-427f77038aca.gif" width='30px'> "Hello" from another world
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 Just another human being who wants to know how universe works through computers, games and algorithms.
 <br/><br/>
